@@ -12,7 +12,7 @@ This project provides an automated solution for retrieving real-time currency ex
 
 ## Architecture
 
-![Architecture Diagram](https://github.com/username/snowflake-aws/raw/main/architecture-diagram.png)
+![Architecture Diagram](https://github.com/zaminDE/Currency_Exchange_Rate_Pipeline/blob/main/architecture%20diagram.jpg)
 
 - **AWS Lambda**: Executes the main ETL process on a schedule
 - **Amazon S3**: Stores raw exchange rate data as JSON files
